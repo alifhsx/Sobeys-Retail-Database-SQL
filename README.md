@@ -1,3 +1,43 @@
+# Sobeys Retail Database SQL Project
+
+## Overview
+
+This project was completed as part of an Advanced Database Design course.
+
+The objective was to design and implement a relational database for a retail grocery management system. The project demonstrates database modeling, SQL development, constraints, joins, views, and transactional data management.
+
+## Technologies
+
+- SQL
+- Relational Database Design
+- ERD Modeling
+- Data Modeling
+- Database Constraints
+
+## Database Components
+
+The database includes:
+
+- Stores
+- Products
+- Suppliers
+- Customers
+- Employees
+- Orders
+- Inventory
+
+## SQL Features
+
+Implemented:
+
+- Table Creation
+- Primary and Foreign Keys
+- Constraints
+- Joins
+- Views
+- Data Insertion
+- Query Development
+
 ## My Contribution
 
 This project was completed as part of a team assignment in an Advanced Database Design course.
